@@ -1,2 +1,2 @@
 # Shutdown-PC-with-Python
-How to shutdown your PC with Python
+If you need a simpel Tutorial watch my YouTube Viedeo: https://www.youtube.com/watch?v=yJI_4Wo_DmA
